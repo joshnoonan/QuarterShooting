@@ -11,8 +11,7 @@ The Warriors are obviously the best third quarter team of the past two seasons, 
 I’ve included an interactive visualization of every team’s performance in each quarter, quantified by shooting percentage and z-score. The (small) differences in the size of the dots represent the differences in shooting percentage - a larger dot means a greater shooting percentage. The color of the dots corresponds to z-score - deeper blues mean a lower z-score (icy shooting performance compared to average) while deeper oranges mean a higher z-score (red hot performances). Feel free to click around and look for your favorite team, hopefully they’re better off than my Hornets!
 
 <figure class="video_container">
-<iframe src = "https://us-east-1.online.tableau.com/t/joshnoonan/views/quarterstats_2/Sheet1?:showVizHome=no&:embed=true"
-width="645" height="955"></iframe>
+<iframe src = "https://us-east-1.online.tableau.com/t/joshnoonan/views/quarterstats_2/Sheet1?:showVizHome=no&:embed=true"></iframe>
 </figure>
 
 
