@@ -10,7 +10,10 @@ The Warriors are obviously the best third quarter team of the past two seasons, 
 
 I’ve included an interactive visualization of every team’s performance in each quarter, quantified by shooting percentage and z-score. The (small) differences in the size of the dots represent the differences in shooting percentage - a larger dot means a greater shooting percentage. The color of the dots corresponds to z-score - deeper blues mean a lower z-score (icy shooting performance compared to average) while deeper oranges mean a higher z-score (red hot performances). Feel free to click around and look for your favorite team, hopefully they’re better off than my Hornets!
 
-<script type='text/javascript' src='https://us-east-1.online.tableau.com/javascripts/api/viz_v1.js'></script><div class='tableauPlaceholder' style='width: 1366px; height: 548px;'><object class='tableauViz' width='1366' height='548' style='display:none;'><param name='host_url' value='https%3A%2F%2Fus-east-1.online.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='&#47;t&#47;joshnoonan' /><param name='name' value='quarterstats_2&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='showAppBanner' value='false' /><param name='filter' value='iframeSizedToWindow=true' /></object></div>
+<figure class="video_container">
+<iframe <script type='text/javascript' src='https://us-east-1.online.tableau.com/javascripts/api/viz_v1.js'></script><div class='tableauPlaceholder' style='width: 1366px; height: 548px;'><object class='tableauViz' width='1366' height='548' style='display:none;'><param name='host_url' value='https%3A%2F%2Fus-east-1.online.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='&#47;t&#47;joshnoonan' /><param name='name' value='quarterstats_2&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='showAppBanner' value='false' /><param name='filter' value='iframeSizedToWindow=true' /></object></div>></iframe>
+</figure>
+
 
 All data was taken from stats.nba.com and manipulated via Python and its many open source libraries
 
